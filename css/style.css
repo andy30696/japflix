@@ -10,19 +10,25 @@
     background-color: beige;
 }
 
-.card-content{
+.card-content {
     height: 150px;
     overflow: auto;
 }
 
 main {
     min-height: calc(100vh - 100px);
-  }
+}
 
-.checked{
+.checked {
     color: orange;
 }
 
-.offcanvas-top{
+.offcanvas-top {
     height: fit-content;
+}
+
+li {
+    list-style: none;
+    color: white;
+
 }
